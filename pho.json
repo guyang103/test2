@@ -4,24 +4,24 @@
     "photo":
     [
     {
-      "name": "001",
+      "name": "Liyue Limanı",
       "url": "https://raw.githubusercontent.com/guyang103/test2/main/p1.png",
-      "description": "This is an example image 1."
+      "description": "Binlerce yelkenle dolu müreffeh bir liman. Sayısız sözleşme ve şarta bağlı olarak birbiri ardına büyük mağazalar ortaya çıktı ve yedi ülkeye satıldı. Dünyanın her yerinden gelen gezginler Liyue'ye hoş geldiniz.."
     },
     {
-      "name": "Example Image 2",
+      "name": "Ejderhanın sırtındaki kar dağı",
       "url": "https://raw.githubusercontent.com/guyang103/test2/main/p2.png",
-      "description": "This is an example image 2."
+      "description": "Tıpkı bu dağın uzak geçmişte yemyeşil olması gibi, Kar Mezarlığı Şehri'nin de bir zamanlar gurur ve romantizmle dolu kendi adı vardı. Gökyüzünü donduran sivri uç indirildikten sonra geçmişteki rahip, başlangıçta gökyüzüne bakan sunağa tırmandı ancak gökyüzünün sesini duyamadı ve geri dönemedi.."
     },
     {
-      "name": "Example Image 3",
+      "name": "kayalar arasındaki uçurum",
       "url": "https://raw.githubusercontent.com/guyang103/test2/main/p3.png",
-      "description": "This is an example image 3."
+      "description": "Hatırlanamayacak kadar eski zamanlarda, Kayaların Kralı'nın bile genç olduğu zamanlarda, Liyue'nin batısındaki çorak arazide gökten yıldızların düştüğü söylenir. Yıldızlar yere düşerken çarpmanın karşı karşıya olduğu çorak arazi büyük ve derin bir uçuruma dönüştü."
     },
     {
-      "name": "Example Image 4",
+      "name": "Sokak girişi",
       "url": "https://raw.githubusercontent.com/guyang103/test2/main/p4.png",
-      "description": "This is an example image 4."
+      "description": "诸商行兴隆发达，居民富足无忧的繁华之所，灯火熙熙攘攘，长明不灭。."
     }
   
   ]
